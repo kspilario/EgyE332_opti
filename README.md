@@ -42,4 +42,4 @@ conda install -c conda-forge ipopt
 If you find any issues, you can send me an email at <kspilario@up.edu.ph>
 
 ## Instructor
-Karl Ezra S. Pilario, Ph.D. | See my [Website](kspilario.github.io)
+Karl Ezra S. Pilario, Ph.D. | See my [Website](https://kspilario.github.io)
